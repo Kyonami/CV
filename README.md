@@ -4,7 +4,7 @@
 | -------- | -------------------- |
 | Email    | tlaryska12@naver.com |
 | Mobile   | 010-7646-6373        |
-| Address  | 서울특별시 관악구    |
+| Address  | 대구광역시 달성군    |
 
 
 ## 자기소개 / About Me
