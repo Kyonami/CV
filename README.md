@@ -3,7 +3,6 @@
 | Birthday | 2002.02.13           |
 | -------- | -------------------- |
 | Email    | tlaryska12@naver.com |
-| Mobile   | 010-7646-6373        |
 | Address  | 대구광역시 달성군    |
 
 
