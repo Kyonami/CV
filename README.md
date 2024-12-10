@@ -3,7 +3,8 @@
 | Birthday | 2002.02.13           |
 | -------- | -------------------- |
 | Email    | tlaryska12@naver.com |
-| Address  | 대구광역시 달서구    |
+| Address  | 대구광역시 달서구 |
+| Work Area  | 대구광역시, 서울특별시, 경기 전 지역 |
 
 
 ## 자기소개 / About Me
