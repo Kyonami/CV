@@ -11,7 +11,7 @@
 
 | 구분                  | Skill                      |
 | -------------------- | -------------------------- |
-| Programing Languages | C#, C++                    |
+| Programing Languages | C#, C++, Java, Python      |
 | Game Engine          | Unity, Unreal              |
 | DevOps               | CI(Jenkins), SCM(Git, SVN) |
 
