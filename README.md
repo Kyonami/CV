@@ -1,6 +1,6 @@
 # 심교남: 게임 프로그래머
 
-| 심교남(Kyonam Shim) | <img src="profile.jpg" alt="profile" style="zoom:50%;" /> |
+| 심교남(Kyonam Shim) | <img src="profile.jpg" alt="프로필 이미지" /> |
 | :--------------: | --------------------------- |
 | Birthday         | 2002.02.13                  |
 | Email            | tlaryska12@naver.com        |
