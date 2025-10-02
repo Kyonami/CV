@@ -1,5 +1,7 @@
 # 심교남: 게임 프로그래머
 
+| Title            | Subject                     |
+| ---------------- | --------------------------- |
 | Birthday         | 2002.02.13                  |
 | Email            | tlaryska12@naver.com        |
 | Current Address  | 대구광역시 달서구                |
